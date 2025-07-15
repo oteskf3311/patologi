@@ -1,7 +1,7 @@
 # MyPatologi Data Scraper
 Web Scraper untuk MyPatologi RSCM v1.0 CLI
-Untuk mengambil data pasien dari IHK dari Mypatologi RSCM secara otomatis dengan BeautifulSoup4
-Cara pakai:
+Untuk mengambil data pasien dari IHK dari Mypatologi RSCM secara otomatis dengan BeautifulSoup4. 
+Berikut cara pakai:
 1. Pastikan install Python 3.9.6
 2. Install library BeautifulSoup4
 3. Login Wifi RSCM
